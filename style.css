@@ -93,6 +93,17 @@ html {
   }
 }
 
+@media only screen and (max-width: 650px) {
+  .wrapper { 
+    width: 100%; 
+  }
+  
+  .column {
+    width: 100%;
+  }
+}
+
+
 
 @media only screen and (max-width: 800px) {
   h1 { 
